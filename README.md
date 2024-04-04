@@ -1,9 +1,7 @@
+https://github.com/hashanCB/Random-Color-Generator/assets/45811945/241fb570-15d9-4bff-9544-37d938d4f087
 ```plaintext
+
 # Random Color Generator
-
-https://github.com/hashanCB/Random-Color-Generator/assets/45811945/0246509d-1b8a-4f1f-a44f-7323c258d1cd
-
-
 
 This project is a simple React application that generates random colors in either HEX or RGB format based on user selection.
 
